@@ -44,117 +44,16 @@ I planned to fix my model and tried to save it, however I failed to spare time t
 
 
 References:
-
-@article{Ising,
-  title={Opinion Evolution in Closed Community},
-  author="{SW Katarzyna, S Jozef}",
-  journal={International Journal of Modern Physics C},
-  pages={11(6):1157-1165},
-  year={2000}
-}
-@article{feedback,
-  title={Opinion Polarization by Learning from Social Feedback},
-  author="{S. Banisch & E. Olbrich}",
-  journal={The Journal of Mathematical Sociology},
-  pages={43(2): 76-103},
-  year={2019}
-}
-@article{arguement,
-  title={Tangled Worldview Model of Opinion Dynamics},
-  author="{Rajpal H, Rosas F, Jensen H J.}",
-  journal={Frontiers in Physics},
-  pages={7: 163},
-  year={2019}
-}
-@article{without,
-  title={Differentiation without Distancing. Explaining Bi-Polarization of Opinions without Negative Influence},
-  author="{Ma¨s M, Flache A}",
-  journal={PLoS ONE},
-  pages={8(11): e74516},
-  year={2013}
-}
-@inproceedings{confident,
-  title={Polarization on social media: when group dynamics leads to societal divides},
-  author={Rychwalska, Agnieszka and Roszczy{\'n}ska-Kurasi{\'n}ska, Magdalena},
-  booktitle={Proceedings of the 51st Hawaii International Conference on System Sciences},
-  year={2018}
-}
-@article{news,
-  title={A model of opinion and propagation structure polarization in social media},
-  author={Prasetya, Hafizh A and Murata, Tsuyoshi},
-  journal={Computational Social Networks},
-  volume={7},
-  number={1},
-  pages={1--35},
-  year={2020},
-  publisher={Springer}
-}
-@article{zeal,
-  title={The impact of competing zealots on opinion dynamics},
-  author={Verma, Gunjan and Swami, Ananthram and Chan, Kevin},
-  journal={Physica A: Statistical Mechanics and its Applications},
-  volume={395},
-  pages={310--331},
-  year={2014},
-  publisher={Elsevier}
-}
-@article{bound,
-  title={Opinion dynamics and bounded confidence models, analysis, and simulation},
-  author={Hegselmann, Rainer and Krause, Ulrich and others},
-  journal={Journal of artificial societies and social simulation},
-  volume={5},
-  number={3},
-  year={2002}
-}
-@article{complex,
-  title={Dynamics of opinion formation under majority rules on complex social networks},
-  author={Nguyen, Vu Xuan and Xiao, Gaoxi and Xu, Xin-Jian and Wu, Qingchu and Xia, Cheng-Yi},
-  journal={Scientific Reports},
-  volume={10},
-  number={1},
-  pages={1--9},
-  year={2020},
-  publisher={Nature Publishing Group}
-}
-@article{continuous,
-  title={The dynamics of persuasion},
-  author={Curtis, John P and Smith, Frank T},
-  journal={Int. J. Math. Models Methods Appl. Sci},
-  volume={2},
-  number={1},
-  pages={115--122},
-  year={2008},
-  publisher={Citeseer}
-}
-@article{private,
-  title={Who drives divergence? Identity signaling, outgroup dissimilarity, and the abandonment of cultural tastes.},
-  author={Berger, Jonah and Heath, Chip},
-  journal={Journal of personality and social psychology},
-  volume={95},
-  number={3},
-  pages={593},
-  year={2008},
-  publisher={American Psychological Association}
-}
-@article{network,
-  title={Darwini: Generating realistic large-scale social graphs},
-  author={Edunov, Sergey and Logothetis, Dionysios and Wang, Cheng and Ching, Avery and Kabiljo, Maja},
-  journal={arXiv preprint arXiv:1610.00664},
-  year={2016}
-}
-@book{agent,
-  title={Agent-based computational sociology},
-  author={Squazzoni, Flaminio},
-  year={2012},
-  publisher={John Wiley \& Sons}
-}
-@article{history,
-  title={The emergence of computational sociology},
-  author={Hummon, Norman P and Fararo, Thomas J},
-  journal={Journal of mathematical sociology},
-  volume={20},
-  number={2-3},
-  pages={79--87},
-  year={1995},
-  publisher={Taylor \& Francis}
-}
+1. Opinion polarization by learning from social feedback. The Journal of Mathematical Sociology, pages 43 2,2019.
+2. Jonah Berger and Chip Heath. Who drives divergence? identity signaling, outgroup dissimilarity, and the abandonment of cultural tastes. Journal of personality and social psychology, 95(3):593, 2008.
+3. John P Curtis and Frank T Smith. The dynamics of persuasion. Int. J. Math. Models Methods Appl. Sci, 2(1):115 122, 2008.
+4. Sergey Edunov, Dionysios Logothetis, Cheng Wang, Avery Ching, and Maja Kabiljo. Darwini: generating realistic large-scale social graphs. ArXiv preprint arXiv:1610.00664, 2016.
+5. Rainer Hegselmann, Ulrich Krause et al. Opinion dynamics and bounded confidence models, analysis, and simulation. Journal of artificial societies and social simulation, 5(3), 2002.
+6. Norman PHummon and Thomas J Fararo. The emergence of computational sociology. Journal of mathematical sociology, 20(2-3):79 87, 1995.
+7. Ma sM, Flache A. Differentiation without distancing. explaining bi-polarization of opinions without negative influence. PLoS ONE, pages 8 11, 2013.
+8. Hafizh A Prasetya and Tsuyoshi Murata. A model of opinion and propagation structure polarization in social media. Computational Social Networks, 7(1):1 35, 2020.
+9. Rajpal H, Rosas F, Jensen H J. Tangled worldview model of opinion dynamics. Frontiers in Physics, pages 7 163, 2019.
+10. Agnieszka Rychwalska and Magdalena Roszczy«ska-Kurasi«ska. Polarization on social media: when group dynamics leads to societal divides. In Proceedings of the 51st Hawaii International Conference on System Sciences. 2018.
+11. Flaminio Squazzoni. Agent-based computational sociology. John Wiley & Sons, 2012.
+12. SW Katarzyna, S Jozef. Opinion evolution in closed community. International Journal of Modern Physics C, pages 11 6, 2000.
+13. Gunjan Verma, Ananthram Swami, and Kevin Chan. The impact of competing zealots on opinion dynamics. Physica A: Statistical Mechanics and its Applications, 395:310 331, 2014.

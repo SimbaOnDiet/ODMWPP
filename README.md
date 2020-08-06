@@ -39,7 +39,7 @@ However, the outcome did not work as I expect. The outcome of my model show perf
 
 
 
-I planned to fix my model and tried to save it, however I failed to spare time to finish it. After all I started it as a course work not a research project, which I have already two ongoing now. So I just put it here. If you find it interesting or have any idea about it, just feel free to contact me. If you cannot get in touch with me via GitHub, you can find my mail address at  http://home.ustc.edu.cn/~liangyien/  . If you want to cite this model, please contact me. 
+I planned to fix my model and tried to save it, however I failed to spare time to finish it. After all I started it as a course work not a research project, which I have already two ongoing now. So I just put it here. It was coded in a hurry, I hope my poor programming skill and bad programming style will not bother you. If you find it interesting or have any idea about it, just feel free to contact me. If you cannot get in touch with me via GitHub, you can find my mail address at  http://home.ustc.edu.cn/~liangyien/  . If you want to cite this model, please contact me. 
 
 
 

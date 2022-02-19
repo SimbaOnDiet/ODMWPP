@@ -17,8 +17,11 @@ Update:
 
 After referring to sociology works on related subject, I can see that I have completely incorrect and biased knowledge on the US 2016 Election and UK Brexit Vote. I would say peer pressure have nothing to do with US 2016 Election and UK Brexit Vote, the peer pressure assumption is completely unrealistic and such situation did not occur in US and UK. Yes, explanation 1 is the reason my assumption fails. I knew nothing about the real sociology in US and UK 2 years ago and was completely wrongly misled. But still, my model might probed what such assumption might lead to (again, if it runned properly without bugs). 
 
-The following content was kept just for achive and a reminder of my totally stupidity and ignorance.
+<b>The following content was kept just for achive and a reminder of my totally stupidity and ignorance.</b> Please keep in mind that what I have said about US 2016 Election and UK Brexit Vote are completely nonsense.
+
 -------------------------------------------------
+
+
 
 This model aimed to account for the big gap between pre-vote poll and voting outcome result in the US 2016 Election and UK Brexit Vote. Recent published papers investigate the affect of zealots, dynamic relationship and negative influence, however, these modifications can only explain bi-polarization but not the difference between pre-vote poll and voting outcome. 
 

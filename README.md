@@ -15,7 +15,7 @@ There is a report about this program in order to summit it as course work, howev
 -------------------------------------------------
 Update:
 
-After referring to sociology works on related subject, I can see that I have completely incorrect and biased knowledge on the US 2016 Election and UK Brexit Vote. I would say peer pressure have nothing to do with US 2016 Election and UK Brexit Vote, the peer pressure assumption is completely unrealistic and such situation did not occur in US and UK. Yes, explanation 1 is the reason my assumption fails. I knew nothing about the real sociology in US and UK 2 years ago and was completely wrongly misled by the false right-wing propaganda. But still, my model might probed what such assumption might lead to (again, if it runned properly without bugs) without real-world reference. 
+After referring to sociology works on related subject, I can see that I have completely incorrect and biased knowledge on the US 2016 Election and UK Brexit Vote. I would say peer pressure have nothing to do with US 2016 Election and UK Brexit Vote, the peer pressure assumption is completely unrealistic and such situation did not occur in US and UK. Yes, explanation 1 is the reason my assumption fails. I knew nothing about the real sociology in US and UK 2 years ago and was completely misled by false information. But still, my model might probed what such assumption might lead to (again, if it runned properly without bugs) without real-world reference. 
 
 <b>The following content was kept just for achive and a reminder of my totally stupidity and ignorance.</b> Please keep in mind that what I said about US 2016 Election and UK Brexit Vote 2 years ago are completely nonsense.
 
@@ -23,9 +23,9 @@ After referring to sociology works on related subject, I can see that I have com
 
 
 
-This model aimed to account for the big gap between pre-vote poll and voting outcome result in the US 2016 Election and UK Brexit Vote. Recent published papers investigate the affect of zealots, dynamic relationship and negative influence, however, these modifications can only explain bi-polarization but not the difference between pre-vote poll and voting outcome. 
+<del>This model aimed to account for the big gap between pre-vote poll and voting outcome result in the US 2016 Election and UK Brexit Vote. Recent published papers investigate the affect of zealots, dynamic relationship and negative influence, however, these modifications can only explain bi-polarization but not the difference between pre-vote poll and voting outcome. </del>
 
-Here, I present a model taking peer pressure into account. In this model, the mainstream media offer a prevailing opinion (vote for Hillary, vote for staying in EU), and people only share their real opinion with their intimate due to peer pressure. And they have a pretended opinion other than their real one.
+<del>Here, I present a model taking peer pressure into account. In this model, the mainstream media offer a prevailing opinion (vote for Hillary, vote for staying in EU), and people only share their real opinion with their intimate due to peer pressure. And they have a pretended opinion other than their real one.</del>
 
 A more detailed account of my model: 
 
